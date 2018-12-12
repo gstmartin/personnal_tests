@@ -1,0 +1,7 @@
+{
+   "model":"greenlightplanet",
+   "view":"accounts",
+   "fields":["accounts.organization", "accounts.angaza_id", "accounts.group_name", "accounts.country", "accounts.account_status", "accounts.registration_date_date", "accounts.registering_user", "accounts.registering_user_angaza_id", "accounts.upfront_price_usd", "accounts.unlock_price_usd", "accounts.total_paid_usd", "accounts.price_per_day_usd", "accounts.minimum_payment_amount_usd", "accounts.date_of_latest_payment_utc_date", "accounts.date_of_disablement_utc_date", "accounts.days_to_cutoff", "accounts.expected_paid_usd", "accounts.owner_msisdn", "accounts.owner_name", "accounts.responsible_user", "accounts.responsible_user_since_date", "accounts.number_of_payments", "accounts.customer_gender", "accounts.customer_age", "accounts.customer_region", "accounts.product_name", "accounts.cumulative_days_disabled", "accounts.test_account", "accounts.electrification", "accounts.customer_secondary_phone_number", "accounts.responsible_user_angaza_id", "accounts.registration_location_latitudelongitude"],
+  "filters":{"accounts.country":"Kenya","accounts.registration_date_date":"2017-02-01 to 2017-03-01","accounts.product_name":"Home 60"} ,
+  "limit":"100000"
+}
